@@ -1,0 +1,62 @@
+[
+    {
+      "type": "body",
+      "description": "Estire uno de sus brazos con la palma de la mano apuntando para adelante y tire los dedos hacia atras, 10 segundos por mano",
+      "amount": 80
+    },
+    {
+      "type": "body",
+      "description": "Estire su brazo y llevelo hacia el pecho utilizando el otro brazo, 10 segundos por brazo",
+      "amount": 60
+    },
+    {
+      "type": "body",
+      "description": "Gire su cabeza con ayuda de sus manos hacia la derecha y luego a la izquierda, permaneciendo en la posicion por algunos segundos",
+      "amount": 70
+    },
+    {
+      "type": "body",
+      "description": "Con las dos manos atras de la cabeza, llevela hacia abajo, elongando la parte de atras del cuello  ",
+      "amount": 60
+    },
+    {
+      "type": "body",
+      "description": "Cruce las piernas y baje con las manos estiradas en direccion al suelo, repetir el movimento con la otra pierna al frente",
+      "amount": 100
+    },
+    {
+      "type": "body",
+      "description": "Sentado, abra las piernas e intente apoyar las palamas de las manos en el suelo, repita 3 veces por 5 segundos",
+      "amount": 80
+    },
+    {
+      "type": "body",
+      "description": "Tire de la rodilla para apollarla con el pecho y mantenga, cambie de pierna despues de 10 segundos",
+      "amount": 50
+    },
+    {
+      "type": "body",
+      "description": "Sentado, cruce las piernas e incline su tronco hacia adelante, cambie de pierna despues de 10 segundos",
+      "amount": 80
+    },
+    {
+      "type": "eye",
+      "description": "Cierre los ojos y cubralos con las manos durante 2 minutos",
+      "amount": 90
+    },
+    {
+      "type": "eye",
+      "description": "En algun lugar abierto, mire lo mas lejos que consiga en cuatro direcciones por 3 segundos, mueva solo los ojos. Repita 3 vezes",
+      "amount": 140
+    },
+    {
+      "type": "eye",
+      "description": "Usando los pulgares, masajee el area abajo de las cejas con movimientos circulares por 15 segundos",
+      "amount": 70
+    },
+    {
+      "type": "body",
+      "description": "En pie gire el tronco lo maximo que pueda pra ambos lados y mantenga por 5 segundos ",
+      "amount": 90
+    }
+  ]
